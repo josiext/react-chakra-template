@@ -1,4 +1,4 @@
-# <Project Name>
+# React Chakra UI Template
 
 ## Start
 
